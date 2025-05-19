@@ -57,6 +57,7 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 <hr>
 
 ## CODE:
+
 ```
 from collections import defaultdict
 
@@ -86,7 +87,6 @@ path = []
 
 traversed_path = dfs(graph, start, visited, path)
 print(traversed_path)
-
 ```
 <h3>Sample Input</h3>
 <hr>
